@@ -1,4 +1,5 @@
 import React, { createContext, useState } from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css'
 import ProductList from './components/ProductList';
 import ProductSearch from './components/ProductSearch';
 import ThemeToggle from './components/ThemeToggle';
